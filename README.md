@@ -5,4 +5,4 @@
 
 ![Image of Citimap](https://public.tableau.com/app/profile/abednarz210/viz/MemberTypeandTripTime/Distanceg)
 
-![Image of Daily Map Citibike Users(https://public.tableau.com/app/profile/abednarz210/viz/DailyStationData/DailyStationData)
+![Image of Daily Map](https://public.tableau.com/app/profile/abednarz210/viz/DailyStationData/DailyStationData)
