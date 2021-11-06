@@ -11,9 +11,9 @@
 
 ## Considerations
 
-Population Density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to out perform by mileage.  
+* Population Density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to out perform by mileage.  
 
-Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Directing resources to increase rider membership versus casual trips. 
+* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips   at lower perfroming station.
 
 ### Ridership 
 ![image](resourcesTableau/Ridership%20by%20Station.png)
