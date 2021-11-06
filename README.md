@@ -8,7 +8,12 @@
 
 
 ### Poulation 
+
+![image](resourcesTableau/Population%20and%20Ridership.png)
+
+
 (https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-PopulationandMembership/PopulationandRidership?publish=yes)
 
 
-### 
+### Ridership 
+![image](resourcesTableau/Ridership%20by%20Station.png)
