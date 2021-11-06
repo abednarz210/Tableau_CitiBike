@@ -16,4 +16,4 @@
 ![image](resourcesTableau/Ridership%20by%20Station.png)
 
 
-<a href="https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation" target="_blank">Google</a>
+<a href="https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation" target="_blank">Link to Tableau</a>
