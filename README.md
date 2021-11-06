@@ -4,3 +4,6 @@
 
 
 ![foxdemo](https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation)
+
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
