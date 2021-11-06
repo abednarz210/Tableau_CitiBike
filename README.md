@@ -5,20 +5,13 @@
 ## Citibike September 2021, Q3 
 
 
-Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm.  
-
-Population 
-
-
+![image](resourcesTableau/Population%20and%20Ridership.png)
 
 ### Poulation 
 
-![image](resourcesTableau/Population%20and%20Ridership.png)
+## Considerations
 
-### Considerations
-
-As population numbers continue to increase new docking stations should be added nearby.  
-
+Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm.  
 
 ### Ridership 
 ![image](resourcesTableau/Ridership%20by%20Station.png)
