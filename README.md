@@ -11,7 +11,9 @@
 
 ## Considerations
 
-Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm.  
+Population Density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to out perform by mileage.  
+
+Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Directing resources to increase rider membership versus casual trips. 
 
 ### Ridership 
 ![image](resourcesTableau/Ridership%20by%20Station.png)
@@ -26,5 +28,8 @@ Mileage: Mainatance and Repair crews should be directed to heavilty trafficed ro
  * Union St and ending at Grand St 24,849 miles 
  
 Maintance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue to improve the useablity and access of Citibike for both membership types. 
+
+
+
 
 <a href="https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation" target="_blank">Link to Citibike Tableau</a>
