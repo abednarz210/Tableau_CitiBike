@@ -7,13 +7,13 @@
 
 ![image](resourcesTableau/Population%20and%20Ridership.png)
 
-### Poulation 
+### Population 
 
 ## Considerations
 
 * Population Density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to out perform by mileage.  
 
-* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips   at lower perfroming station.
+* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips at lower perfroming station.
 
 ### Ridership 
 ![image](resourcesTableau/Ridership%20by%20Station.png)
@@ -27,7 +27,8 @@ Mileage: Mainatance and Repair crews should be directed to heavilty trafficed ro
  * Astor Place to Grove Street Path 53,836 miles 
  * Union St and ending at Grand St 24,849 miles 
  
-Maintance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue to improve the useablity and access of Citibike for both membership types. 
+Maintance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue up 
+improve the useablity and access of Citibike for both membership types. 
 
 
 
