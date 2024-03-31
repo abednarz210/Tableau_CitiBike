@@ -11,9 +11,9 @@
 
 ## Considerations
 
-* Population density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to out perform by mileage.  
+* Population density and ridership beginning at Hoboken Terminal at Hudson St. and Hudson Place continue to outperform by mileage.  
 
-* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips at lower perfroming station.
+* Peak hours for both member and casual riders continue to be between the hours of 5 to 7 pm. Increase resources to increase rider membership versus casual trips at lower-performing stations.
 
 ### Ridership 
 ![image](resourcesTableau/Ridership%20by%20Station.png)
@@ -21,16 +21,16 @@
 
 ### Considerations
 
-Mileage: Mainatance and Repair crews should be directed to heavilty trafficed routes 
+Mileage: Maintenance and Repair crews should be directed to heavily trafficked routes. 
 
- * Bergan & Stegman Street endging at Linclon Park 82,852 miles
+ * Bergan & Stegman Street ending at Lincoln Park 82,852 miles
  * Astor Place to Grove Street Path 53,836 miles 
  * Union St and ending at Grand St 24,849 miles 
  
-Maintance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue up 
-improve the useablity and access of Citibike for both membership types. 
+Maintenance and Repairs: To avoid service disruption maintenance should be performed, when possible from 12 am to 5 am to maximize peak travel times to continue up 
+improve the useability and access of Citibike for both membership types. 
 
 
 
 
-<a href="https://public.tableau.com/app/profile/abednarz210/viz/TableauCitibikeProject-Population/RidershipbyStation" target="_blank">Link to Citibike Tableau</a>
+
